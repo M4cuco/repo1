@@ -1,4 +1,4 @@
 # Learning Repo Git
-![./umbrella.jpg](Hmg-teste)
+![./umbrella.png](Hmg-teste)
 
 - Repositorio Git
